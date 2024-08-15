@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Introduction to Python Programming in Cybersecurity (Coursera)</b>
-  - [Get to know Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Get to know Python]()
 
 <h2> Certifications:</h2>
 <b>CompTia Security+ Certification</b>
