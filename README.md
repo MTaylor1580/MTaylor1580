@@ -9,7 +9,6 @@ My journey as a Business Analyst has led me to develop a passion for cybersecuri
 
 <h2> Certifications:</h2>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <a href="http://verify.CompTIA.org">Credential ID: 543H8MZ6BFFE13WJ</a>
-<h3>Labs:</h3>
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
