@@ -45,8 +45,9 @@ My journey as a Business Analyst has led me to develop a passion for cybersecuri
 | Backing Up and Restoring Data in Windows and Linux| CompTia CertMaster Lab|
 | Managing Incident Response, Mitigation and Recovery| CompTia CertMaster Lab|
 
-<h1>Trailhead Superbadge</h1> <img src="Salesforce_Corporate_Logo_RGB.png" alt="Salesforce Logo" width="100"/>
-Business Administration Specialist
+<h1>Trailhead Superbadge</h1> 
+<img src="Salesforce_Corporate_Logo_RGB.png" alt="Salesforce Logo" width="100"/> <a href="https://www.salesforce.com/trailblazer/matoyiataylor">Business Administration Specialist</a>
+<h2>Labs:</h2>
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
