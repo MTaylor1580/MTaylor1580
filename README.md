@@ -1,4 +1,4 @@
-<h1>Hi, I'm Toya! <br/><a href="https://github.com/joshmadakor1">Whova System Administrator</a>, <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.linkedin.com/in/matoyia-taylor-42373318/">Business Analyst</a>, <a href="https://www.youtube.com/@lennyandtoya">YouTuber</a></h1>
+<h1>Hi, I'm Toya! <br/><a href="https://whova.com/portal/registration/bossb_202407/">Whova System Administrator</a>, <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.linkedin.com/in/matoyia-taylor-42373318/">Business Analyst</a>, <a href="https://www.youtube.com/@lennyandtoya">YouTuber</a></h1>
 <h2>Objective:</h2>
 My journey as a Business Analyst has led me to develop a passion for cybersecurity, and I am now eager to leverage my analytical skills for security solutions, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
