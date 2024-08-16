@@ -47,7 +47,7 @@ My journey as a Business Analyst has led me to develop a passion for cybersecuri
 
 <h1>Trailhead Superbadge</h1> 
 
-<h2>Labs:</h2><img src="Salesforce_Corporate_Logo_RGB.png" alt="Salesforce Logo" width="100"/> <a href="https://www.salesforce.com/trailblazer/matoyiataylor">Business Administration Specialist</a>
+<img src="Salesforce_Corporate_Logo_RGB.png" alt="Salesforce Logo" width="100"/> <a href="https://www.salesforce.com/trailblazer/matoyiataylor">Business Administration Specialist</a>
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
